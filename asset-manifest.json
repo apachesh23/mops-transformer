@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mops-transformer/static/css/main.cccc86a8.css",
+    "main.js": "/mops-transformer/static/js/main.6d721883.js",
+    "index.html": "/mops-transformer/index.html",
+    "main.cccc86a8.css.map": "/mops-transformer/static/css/main.cccc86a8.css.map",
+    "main.6d721883.js.map": "/mops-transformer/static/js/main.6d721883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cccc86a8.css",
+    "static/js/main.6d721883.js"
+  ]
+}
